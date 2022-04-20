@@ -1,0 +1,10 @@
+Installation: http://wiki.ros.org/noetic/Installation/Ubuntu
+video -> https://youtu.be/PowY8dV36DY
+
+In every bash terminal source the script
+echo "source /opt/ros/noetic/setup.bash" >> ~/.bashrc  --> adds the line at last of .bashrc
+source ~/.bashrc
+
+sudo apt install ros-noetic-joint-state-publisher <-- dependency
+
+http://wiki.ros.org/ROS/Tutorials
